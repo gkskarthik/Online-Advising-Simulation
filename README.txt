@@ -1,8 +1,5 @@
 README:
 
-NAME: 				Karthik Kumarasubramanian
-UTA ID: 			1001549999
-
 REFERENCES:			http://sebastianraschka.com/articles/2014_sqlite_in_python_tutorial.html
 				https://pythonhosted.org/Pyro4/tutorials.html
 				https://stackoverflow.com/questions/36439032/how-do-you-pass-through-a-python-variable-into-sqlite3-query
